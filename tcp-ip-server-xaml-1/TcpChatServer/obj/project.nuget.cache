@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "LBEvmYz9KgQlAtVywMUWegtEZW20iDDnZxR40im9bLg5MBX6ebxQQOwl5IbKceZ42JI5KIlJs3CYoCdnJVMIgQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\GIGA\\source\\repos\\tcp-ip-server-xaml-1\\tcp-ip-server-xaml-1\\TcpChatServer\\TcpChatServer.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\GIGA\\source\\repos\\tcp-ip-server-xaml-1\\source\\NetCoreServer\\NetCoreServer.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\GIGA\\source\\repos\\tcp-ip-server-xaml-1\\source\\NetCoreServer\\NetCoreServer.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

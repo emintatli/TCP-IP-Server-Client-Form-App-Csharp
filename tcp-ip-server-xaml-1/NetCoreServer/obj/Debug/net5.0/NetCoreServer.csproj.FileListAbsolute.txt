@@ -1,0 +1,12 @@
+C:\Users\GIGA\source\repos\tcp-ip-server-xaml-1\tcp-ip-server-xaml-1\NetCoreServer\bin\Debug\net5.0\NetCoreServer.deps.json
+C:\Users\GIGA\source\repos\tcp-ip-server-xaml-1\tcp-ip-server-xaml-1\NetCoreServer\bin\Debug\net5.0\NetCoreServer.dll
+C:\Users\GIGA\source\repos\tcp-ip-server-xaml-1\tcp-ip-server-xaml-1\NetCoreServer\bin\Debug\net5.0\ref\NetCoreServer.dll
+C:\Users\GIGA\source\repos\tcp-ip-server-xaml-1\tcp-ip-server-xaml-1\NetCoreServer\bin\Debug\net5.0\NetCoreServer.pdb
+C:\Users\GIGA\source\repos\tcp-ip-server-xaml-1\tcp-ip-server-xaml-1\NetCoreServer\obj\Debug\net5.0\NetCoreServer.csprojAssemblyReference.cache
+C:\Users\GIGA\source\repos\tcp-ip-server-xaml-1\tcp-ip-server-xaml-1\NetCoreServer\obj\Debug\net5.0\NetCoreServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGA\source\repos\tcp-ip-server-xaml-1\tcp-ip-server-xaml-1\NetCoreServer\obj\Debug\net5.0\NetCoreServer.AssemblyInfoInputs.cache
+C:\Users\GIGA\source\repos\tcp-ip-server-xaml-1\tcp-ip-server-xaml-1\NetCoreServer\obj\Debug\net5.0\NetCoreServer.AssemblyInfo.cs
+C:\Users\GIGA\source\repos\tcp-ip-server-xaml-1\tcp-ip-server-xaml-1\NetCoreServer\obj\Debug\net5.0\NetCoreServer.csproj.CoreCompileInputs.cache
+C:\Users\GIGA\source\repos\tcp-ip-server-xaml-1\tcp-ip-server-xaml-1\NetCoreServer\obj\Debug\net5.0\NetCoreServer.dll
+C:\Users\GIGA\source\repos\tcp-ip-server-xaml-1\tcp-ip-server-xaml-1\NetCoreServer\obj\Debug\net5.0\ref\NetCoreServer.dll
+C:\Users\GIGA\source\repos\tcp-ip-server-xaml-1\tcp-ip-server-xaml-1\NetCoreServer\obj\Debug\net5.0\NetCoreServer.pdb
